@@ -1,4 +1,4 @@
 picserver
 =========
 
-image server
+image server will be developped using APIs
